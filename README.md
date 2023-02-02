@@ -1,4 +1,6 @@
-![riotadministration](https://user-images.githubusercontent.com/71534600/216466653-caf82182-d110-48ec-a6b3-10ae67704bdd.png)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ## RIOT Administration
 
